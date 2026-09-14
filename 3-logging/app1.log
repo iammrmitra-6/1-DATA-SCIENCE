@@ -1,0 +1,20 @@
+2026-02-05 19:17:38- ArithematicApp-DEBUG-adding 10+15=25
+2026-02-05 19:17:38- ArithematicApp-DEBUG-subtracting15-9=6
+2026-02-05 19:17:38- ArithematicApp-DEBUG-multiply 23*67=90
+2026-02-05 19:17:38- ArithematicApp-DEBUG-division 20/10=2.0
+2026-02-05 19:18:30- ArithematicApp-DEBUG-adding 10+15=25
+2026-02-05 19:18:30- ArithematicApp-DEBUG-subtracting 15-9=6
+2026-02-05 19:18:30- ArithematicApp-DEBUG-multiply 23*67=90
+2026-02-05 19:18:30- ArithematicApp-DEBUG-division 20/10=2.0
+2026-02-05 19:18:30- ArithematicApp-DEBUG-adding 10+15=25
+2026-02-05 19:18:30- ArithematicApp-DEBUG-subtracting 15-9=6
+2026-02-05 19:18:30- ArithematicApp-DEBUG-multiply 23*67=90
+2026-02-05 19:18:30- ArithematicApp-DEBUG-division 20/10=2.0
+2026-02-05 19:19:00- ArithematicApp-DEBUG-adding 10+15=25
+2026-02-05 19:19:00- ArithematicApp-DEBUG-subtracting 15-9=6
+2026-02-05 19:19:00- ArithematicApp-DEBUG-multiply 23*67=90
+2026-02-05 19:19:00- ArithematicApp-ERROR-division by zero error
+2026-02-11 22:25:00- ArithematicApp-DEBUG-adding 10+15=25
+2026-02-11 22:25:00- ArithematicApp-DEBUG-subtracting 15-9=6
+2026-02-11 22:25:00- ArithematicApp-DEBUG-multiply 23*67=90
+2026-02-11 22:25:00- ArithematicApp-ERROR-division by zero error

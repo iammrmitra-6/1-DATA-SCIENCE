@@ -1,0 +1,11 @@
+id,first_name,last_name,email,phone,job_title,department,company,city,country,signup_date,plan_type,last_login,account_status,is_newsletter_subscriber
+1024,Jordan,Smith,j.smith@fake-email.com,+1-555-012-3456,Senior Developer,Engineering,TechFlow Solutions,San Francisco,USA,2024-05-12,Premium,2025-01-28 14:30:00,Active,TRUE
+1025,Elena,Rodriguez,e.rod@provider.net,+34-910-112-233,Data Scientist,Analytics,InsightCorp,Madrid,Spain,2023-11-05,Basic,2025-02-01 09:15:00,Active,FALSE
+1026,Marcus,Chen,mchen88@global.com,+65-6789-0123,UX Designer,Product,Pixel Perfect,Singapore,Singapore,2024-01-20,Premium,2025-02-03 18:45:00,Active,TRUE
+1027,Sarah,Jenkins,s.jenkins@webmail.org,+44-20-7946-0111,HR Manager,People Ops,StaffStream,London,UK,2022-08-14,Enterprise,2025-01-30 11:20:00,Suspended,TRUE
+1028,Yuki,Tanaka,y.tanaka@jp-corp.jp,+81-3-1234-5678,DevOps Engineer,Infrastructure,CloudScale,Tokyo,Japan,2024-06-30,Basic,2025-02-04 03:10:00,Active,FALSE
+1029,Amara,Okonjo,amara.o@fintech.io,+234-1-460-1234,Product Manager,Finance,PaySwift,Lagos,Nigeria,2023-03-12,Premium,2025-02-02 20:05:00,Active,TRUE
+1030,Hans,Mueller,h.mueller@de-tech.de,+49-30-123456,Security Analyst,IT Security,CyberGuard,Berlin,Germany,2024-09-18,Basic,2025-02-01 16:50:00,Active,TRUE
+1031,Lucia,Bianchi,l.bianchi@design.it,+39-06-1234567,Art Director,Creative,StudioVogue,Rome,Italy,2021-12-01,Premium,2025-01-15 12:00:00,Inactive,FALSE
+1032,Ahmed,Mansour,a.mansour@dubai.ae,+971-4-123-4567,Sales Executive,Growth,DesertVentures,Dubai,UAE,2024-10-22,Basic,2025-02-04 08:30:00,Active,TRUE
+1033,Chloe,Dupont,c.dupont@fr-services.fr,+33-1-42-68-53-00,Marketing Lead,Marketing,BrandBoost,Paris,France,2023-05-09,Enterprise,2025-02-03 14:10:00,Active,TRUE
